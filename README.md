@@ -1,6 +1,6 @@
 # Terminal Chat
 
-[![version][version-badge]][changelog][![licence][licence-badge]]
+[![version][version-badge]][changelog][![licence-badge][licence]]
 
 ## Synopsis
 
