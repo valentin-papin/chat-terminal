@@ -1,6 +1,6 @@
 # Terminal Chat
 
-[![version][version-badge]][changelog][![licence-badge][licence]]
+[![version][version-badge]][changelog][![licence][licence-badge][licence-link]]
 
 ## Synopsis
 
@@ -14,5 +14,5 @@ This project is a client/server chat software designed for UNIX terminals.<br>
 
 [changelog]: ./CHANGELOG.md
 [version-badge]: https://img.shields.io/badge/version-1.0.0-blue.svg
-[LICENCE]: ./LICENCE
+[licence-link]: ./LICENCE
 [licence-badge]: https://img.shields.io/aur/license/yaourt.svg
