@@ -1,7 +1,7 @@
 # Terminal Chat
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)][changelog]
-[![License](https://img.shields.io/aur/license/yaourt.svg)](./LICENCE)
+[![License](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/valentin-papin/terminal-chat/blob/master/LICENSE)
 
 ## Synopsis
 
